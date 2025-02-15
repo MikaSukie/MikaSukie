@@ -1,11 +1,11 @@
 ## Hey 👋 Welcome to my profile!
-![Custom Badge](https://img.shields.io/badge/MikaSukie-Loves%20programing-pink)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MikaSukie&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MikaSukie&layout=compact&theme=radical)
 ![Profile Views](https://komarev.com/ghpvc/?username=MikaSukie&color=blue)
 ![GitHub last commit](https://img.shields.io/github/last-commit/MikaSukie/YOUR_REPO)
 ![GitHub Repo stars](https://img.shields.io/github/stars/MikaSukie/YOUR_REPO?style=social)
 ![GitHub license](https://img.shields.io/github/license/MikaSukie/YOUR_REPO)
+![Custom Badge](https://img.shields.io/badge/MikaSukie-Loves%20programing-pink)
 
 
 
