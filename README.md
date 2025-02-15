@@ -1,6 +1,7 @@
 ## Hey 👋 Welcome to my profile!
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MikaSukie&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MikaSukie&layout=compact&theme=radical)
+
 ![Status](https://img.shields.io/badge/Status-Active-magenta)
 ![Made with Love](https://img.shields.io/badge/Made%20with-%E2%9D%A4-red)
 ![Profile Views](https://komarev.com/ghpvc/?username=MikaSukie&color=blue)
