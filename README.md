@@ -10,8 +10,6 @@
 ![Custom Badge](https://img.shields.io/badge/MikaSukie-Loves%20programing-pink)
 ![GitHub last commit](https://img.shields.io/github/last-commit/MikaSukie/CUNE-VN-Engine)
 ![GitHub Repo stars](https://img.shields.io/github/stars/MikaSukie/CUNE-VN-Engine?style=social)
-<!--![GitHub pull requests](https://img.shields.io/github/issues-pr/MikaSukie/CUNE-VN-Engine)-->
-<!--![GitHub issues](https://img.shields.io/github/issues/MikaSukie/CUNE-VN-Engine) -->
 ![GitHub closed issues](https://img.shields.io/github/issues-closed/MikaSukie/CUNE-VN-Engine)
 ![GitHub closed PRs](https://img.shields.io/github/issues-pr-closed/MikaSukie/CUNE-VN-Engine)
 
@@ -20,7 +18,8 @@
 ![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?logo=youtube)
 
 
-
+<!--![GitHub pull requests](https://img.shields.io/github/issues-pr/MikaSukie/CUNE-VN-Engine)-->
+<!--![GitHub issues](https://img.shields.io/github/issues/MikaSukie/CUNE-VN-Engine) -->
 <!--
 **MikaSukie/MikaSukie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
