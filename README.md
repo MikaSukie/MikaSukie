@@ -6,13 +6,13 @@
 
 ![Status](https://img.shields.io/badge/Status-Active-magenta)
 ![Made with Love](https://img.shields.io/badge/Made%20with-%E2%9D%A4-red)
-![Profile Views](https://komarev.com/ghpvc/?username=MikaSukie&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=MikaSukie&color=purple)
 ![Custom Badge](https://img.shields.io/badge/MikaSukie-Loves%20programing-pink)
 ![GitHub last commit](https://img.shields.io/github/last-commit/MikaSukie/CUNE-VN-Engine)
 ![GitHub Repo stars](https://img.shields.io/github/stars/MikaSukie/CUNE-VN-Engine?style=social)
 
 ![GitHub license](https://img.shields.io/github/license/MikaSukie/CUNE-VN-Engine)
-![Discord](https://img.shields.io/badge/Discord-Join%20Now-blue?logo=discord)
+![Discord](https://img.shields.io/badge/Discord-Join%20Now-pink?logo=discord)
 ![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?logo=youtube)
 
 <!--
