@@ -6,7 +6,7 @@
 
 ![Status](https://img.shields.io/badge/Status-Active-magenta)
 ![Made with Love](https://img.shields.io/badge/Made%20with-%E2%9D%A4-red)
-![Profile Views](https://komarev.com/ghpvc/?username=MikaSukie&color=magenta)
+![Profile Views](https://komarev.com/ghpvc/?username=MikaSukie&color=pink)
 ![Custom Badge](https://img.shields.io/badge/MikaSukie-Loves%20programing-pink)
 ![GitHub last commit](https://img.shields.io/github/last-commit/MikaSukie/CUNE-VN-Engine)
 ![GitHub Repo stars](https://img.shields.io/github/stars/MikaSukie/CUNE-VN-Engine?style=social)
