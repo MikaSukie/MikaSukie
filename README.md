@@ -10,10 +10,9 @@
 ![Custom Badge](https://img.shields.io/badge/MikaSukie-Loves%20programing-pink)
 ![GitHub last commit](https://img.shields.io/github/last-commit/MikaSukie/CUNE-VN-Engine)
 ![GitHub Repo stars](https://img.shields.io/github/stars/MikaSukie/CUNE-VN-Engine?style=social)
-
+<!--![GitHub pull requests](https://img.shields.io/github/issues-pr/MikaSukie/CUNE-VN-Engine)-->
 <!--![GitHub issues](https://img.shields.io/github/issues/MikaSukie/CUNE-VN-Engine) -->
 ![GitHub closed issues](https://img.shields.io/github/issues-closed/MikaSukie/CUNE-VN-Engine)
-<!--![GitHub pull requests](https://img.shields.io/github/issues-pr/MikaSukie/CUNE-VN-Engine)-->
 ![GitHub closed PRs](https://img.shields.io/github/issues-pr-closed/MikaSukie/CUNE-VN-Engine)
 
 ![GitHub license](https://img.shields.io/github/license/MikaSukie/CUNE-VN-Engine)
