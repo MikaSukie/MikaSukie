@@ -1,5 +1,5 @@
 ## Hey 👋 I'm MikaSukie!
-<-Languages I know: {Python, Java, learning C# & C++} || Favorite: {None}->
+<-Languages I know: {Python, Java, learning C#, JS, HTML, CSS} || Favorite: {None}->
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MikaSukie&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MikaSukie&layout=compact&theme=radical)
