@@ -1,4 +1,4 @@
-## Hey 👋 I'm MikaSukie!
+## Hey 👋 I'm MikaLorielle!
 <-Languages I know: {Python, Java} learning C#, JS, HTML, CSS, rust, (MAYBE C++)} || Favorite: {None}->
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MikaSukie&show_icons=true&theme=radical)
