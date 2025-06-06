@@ -1,7 +1,7 @@
 ## Hey 👋 I'm MikaLorielle!
 <-Languages I know: {Python, Java, Orcat} learning C, rust, (MAYBE C++)} || Favorite: {None}->
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MikaLorielle&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MikaLorielle&show_icons=true&theme=radical)</br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MikaLorielle&layout=compact&theme=radical)
 
 ![Status](https://img.shields.io/badge/Status-Active-magenta)
