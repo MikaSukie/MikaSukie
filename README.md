@@ -1,5 +1,5 @@
 ## Hey 👋 I'm MikaLorielle!
-<-Languages I know: {Python, Java, Orcat} learning C, rust, (MAYBE C++)} || Favorite: {None}->
+<-Languages I know: {Orcat, Java, Python} and learning C} || Favorite: {Orcat}->
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MikaLorielle&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MikaLorielle&layout=compact&theme=radical)
