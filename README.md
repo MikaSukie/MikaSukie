@@ -7,7 +7,7 @@
 ![Status](https://img.shields.io/badge/Status-Active-magenta)
 ![Made with Love](https://img.shields.io/badge/Made%20with-%E2%9D%A4-red)
 ![Profile Views](https://komarev.com/ghpvc/?username=MikaLorielle&color=blue)
-![Custom Badge](https://img.shields.io/badge/MikaLorielle-Loves%20programing-pink)
+![Custom Badge](https://img.shields.io/badge/MikaLorielle-Loves%20programming-pink)
 ![GitHub last commit](https://img.shields.io/github/last-commit/MikaLorielle/Orcat-lang)
 ![GitHub Repo stars](https://img.shields.io/github/stars/MikaLorielle/CUNE-VN-Engine?style=social)
 
