@@ -1,8 +1,8 @@
 ## Hey 👋 I'm MikaSukie!
 <-Languages I know: {Orcat, Java, Python, C#} and learning C#} || Favorite: {Orcat and C#}->
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MikaSukie&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MikaSukie&layout=compact&theme=radical)
+![github-stats](https://stats.hyo.dev/api/github-stats-advanced?login=MikaSukie)
+![github-trophies](https://stats.hyo.dev/api/github-trophies?login=MikaSukie)
 
 ![Status](https://img.shields.io/badge/Status-Active-magenta)
 ![Made with Love](https://img.shields.io/badge/Made%20with-%E2%9D%A4-red)
