@@ -1,5 +1,5 @@
 ## Hey 👋 I'm MikaSukie!
-<-Languages I know: {Orcat, Java, Python, C#} and learning C#} || Favorite: {Orcat and C#}->
+<-Languages I know: {Orcat, Java, Python, C#, C kinda} and learning C} || Favorite as prototyping and syntax: {Orcat and C}->
 
 ![github-stats](https://stats.hyo.dev/api/github-stats-advanced?login=MikaSukie)
 ![github-trophies](https://stats.hyo.dev/api/github-trophies?login=MikaSukie)
