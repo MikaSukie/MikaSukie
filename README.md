@@ -8,7 +8,7 @@
 ![Made with Love](https://img.shields.io/badge/Made%20with-%E2%9D%A4-red)
 ![Profile Views](https://komarev.com/ghpvc/?username=MikaSukie&color=blue)
 ![Custom Badge](https://img.shields.io/badge/MikaSukie-Loves%20programming-pink)
-![GitHub last commit](https://img.shields.io/github/last-commit/MikaSukie/BhumiLang)
+![GitHub last commit](https://img.shields.io/github/last-commit/MikaSukie/Bhumi)
 ![GitHub Repo stars](https://img.shields.io/github/stars/MikaSukie/CUNE-VN-Engine?style=social)
 
 ![GitHub license](https://img.shields.io/github/license/MikaSukie/CUNE-VN-Engine)
