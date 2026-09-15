@@ -1,4 +1,4 @@
-## Hey 👋 I'm MikaSukie!
+## Helloington! 👋 I'm MikaSukie!
 <-Languages I know: {Rosaline, Java, Python, C#} and learning zig} || Favorite as prototyping and syntax: {Rosaline}->
 
 ![github-stats](https://stats.hyo.dev/api/github-stats-advanced?login=MikaSukie)
