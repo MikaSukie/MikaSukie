@@ -1,5 +1,5 @@
 ## Helloington! 👋 I'm MikaSukie!
-<-Languages I know: {Rosaline, Java, Python, C#} and learning zig} || Favorite as prototyping and syntax: {Rosaline}->
+<-Languages I know: {Rosaline, Java, Python, C#} and self researching and learning language internals and design} || Favorite as prototyping and syntax: {Rosaline}->
 
 ![github-stats](https://stats.hyo.dev/api/github-stats-advanced?login=MikaSukie)
 ![github-trophies](https://stats.hyo.dev/api/github-trophies?login=MikaSukie)
